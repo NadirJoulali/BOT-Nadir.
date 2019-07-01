@@ -775,4 +775,4 @@ client.on('message',async message => {
 
 
 	
- client.login("NTY0OTI5MDQ1ODIxNjUyOTk2.XKvBlQ.1HWnnyvewLAAtcMVlg2rJABr4XI");
+ client.login(process.env.BOT_TOKEN);
